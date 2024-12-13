@@ -10,6 +10,8 @@
 
 5) Quando está claro, segundo a leitura analógica do sensor LDR, e o semáforo estiver no estado fechado (somente led vermelho aceso) e o botão for pressionado 3 vezes, o sistema envia uma requisição HTTP para implementar um alerta
 
+6) O protótipo suporta debounce na leitura do botão
+
 ### Código do projeto:
 ```
 
