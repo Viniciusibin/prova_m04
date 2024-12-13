@@ -7,7 +7,7 @@
 3)Quando está claro, segundo a leitura analógica do sensor LDR, o protótipo ativa o modo convencional e faz a temporização alternando entre verde (3 segundos), amarelo (2 segundos) e vermelho (5 segundos)
 
 4) Quando está claro, segundo a leitura analógica do sensor LDR, e o semáforo estiver no estado fechado (somente led vermelho aceso) e o botão for pressionado, o semáforo deve abrir 1 segundo após o pressionamento do botão
- 
+
 5) Quando está claro, segundo a leitura analógica do sensor LDR, e o semáforo estiver no estado fechado (somente led vermelho aceso) e o botão for pressionado 3 vezes, o sistema envia uma requisição HTTP para implementar um alerta
 
 ### Código do projeto:
